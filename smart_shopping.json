@@ -3,13 +3,13 @@
     "image": "https://play-lh.googleusercontent.com/QrDjFxk6q1snmS96tGAhMJYl7N1_thOJxR62etDJbL5nhSozwdCoXC55nHjL2NFD8d8=s512-rw",
     "web_url": "https://www.amazon.in/",
     "title": "Amazon",
-    "tab_name": "Deal of the Day,Womens"
+    "tab_name": "Deal of the Day,Womens,Baby & kids"
   },
   {
     "image": "https://play-lh.googleusercontent.com/q8hxnbpJCYfHipSOG_5tZe5jK_89T6QIsqrEklvGpMFKH8b98pDHJf2tPcn2bxEN96ON=s512-rw",
     "web_url": "https://www.flipkart.com/",
     "title": "Flipkart",
-    "tab_name": "Deal of the Day,Womens"
+    "tab_name": "Deal of the Day,Womens,Baby & kids"
   },
   {
     "image": "https://play-lh.googleusercontent.com/0l2w1UBkrdVP-CyBl89WRgbk54znQb4YoRMZIyPrguc0PGiVEOVr8P-xRKrJXHzwPf0",
@@ -39,7 +39,7 @@
     "image": "https://play-lh.googleusercontent.com/1llAcleLs0UDr5ysUl_C4aHM-vN70HGTy7gjlM78SLsPCOijj7oosBLQc26G2daqOg",
     "web_url": "https://clnk.in/rVUF",
     "title": "Make my trip",
-    "tab_name": "Deal of the Day"
+    "tab_name": "Deal of the Day,Travell & hotel"
   },
   {
     "image": "https://play-lh.googleusercontent.com/UlSOlQSBkqPjYqKnuPtgpL7-TeAt2O7x8XnQKVelhhxL983Om0xjXmv4wVvVbeznWGg",
@@ -169,8 +169,122 @@
   },
   {
     "image": "https://mir-s3-cdn-cf.behance.net/projects/404/4e6f9b137166111.Y3JvcCwzMTcxLDI0ODEsMTY0LDA.jpg",
-    "web_url": "https://clnk.in/rUFl,
+    "web_url": "https://clnk.in/rUFl",
     "title": "Ginnie and jhony",
     "tab_name": "Womens"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/WvOdfNjs3hNB8I3NiJyeCfB90mnra9GmsBUK60RuD92xOBgHctVGbMvBGJeOYbKAg5I",
+    "web_url": "https://clnk.in/rVVT",
+    "title": "Mobikwik",
+    "tab_name": "Reacharge"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/6_Qan3RBgpJUj0C2ct4l0rKKVdiJgF6vy0ctfWyQ7aN0lBjs78M-1cQUONQSVeo2jfs",
+    "web_url": "https://clnk.in/rVVR",
+    "title": "Paytm",
+    "tab_name": "Reacharge,Travell & hotel"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/l_7fl4HP1a-lspMA3I3tkcQVvUqzoZZd4XNPo-WbHFChj7Z7--aklMLygX9x8et5Pg",
+    "web_url": "https://clnk.in/rVVW",
+    "title": "Freecharge",
+    "tab_name": "Reacharge"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/QrDjFxk6q1snmS96tGAhMJYl7N1_thOJxR62etDJbL5nhSozwdCoXC55nHjL2NFD8d8",
+    "web_url": "https://amzn.to/3IjGv02",
+    "title": "Amazon pay",
+    "tab_name": "Reacharge"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/W6-GRr_DiVmMphLSzsH2Z2fGMdlM8ZLjNhKS93ALvLO3Dkfl6RejtMqlARBoA2dCw0Y",
+    "web_url": "https://clnk.in/rVVY",
+    "title": "Jio reacharge",
+    "tab_name": "Reacharge"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/sX39fcD2gPjhNjKxf7bvCV8KJ6f6G4kp79lPOsNFCdoYi8O1RxHSJaUZDyaqAgw7cz_O",
+    "web_url": "https://clnk.in/rVV1",
+    "title": "Dish Tv",
+    "tab_name": "Reacharge"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/MEDyPtE2OFyPqXh2m_K5iQT3jvzIC93vdlRQC5O8kjr5_GAkFeNbmroPVrpbJT8bocM",
+    "web_url": "https://clnk.in/rVV2",
+    "title": "Airtel",
+    "tab_name": "Reacharge"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/gIef9OsQlLPgRphyN6odRZlBKmrl-TUnTpuiwe-0OBJ3S_BcSsUf_qEVnlAKG_9UplE",
+    "web_url": "https://clnk.in/rVV3",
+    "title": "Go ibibo",
+    "tab_name": "Travell & hotel"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/C0gdwkwRgeWwtBRklQBD8XMd7ctEVuQweHscdmXIY9JWX-0NvPcpnxDcmz-m0II08mmO",
+    "web_url": "https://clnk.in/rVV9",
+    "title": "Trivago",
+    "tab_name": "Travell & hotel"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/C0gdwkwRgeWwtBRklQBD8XMd7ctEVuQweHscdmXIY9JWX-0NvPcpnxDcmz-m0II08mmO",
+    "web_url": "https://clnk.in/rVV9",
+    "title": "Trivago",
+    "tab_name": "Travell & hotel"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/9xMTcIms0WtWj8Ra4Vhlfm3Dz8zrd53tfrgyyA5kNLHnap2qjSrPDshm3YfKLElY4w",
+    "web_url": "https://clnk.in/rVWa",
+    "title": "Easy my trip",
+    "tab_name": "Travell & hotel"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/bNSDmFT0WsnRZupS4f2IT8_LuTWdrH29nda_OXOz9hs4Aq0PmY4eDs4Vk-dNccEilUWo",
+    "web_url": "https://clnk.in/rVWb",
+    "title": "Red bus",
+    "tab_name": "Travell & hotel"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/pOhc9TAENgN1MXuU42s6tiT7KCJ-PSl7zoSH9r_AfIx-rkfIOHNvJHanJPw-HBa09w",
+    "web_url": "https://clnk.in/rVWc",
+    "title": "Irctc",
+    "tab_name": "Travell & hotel"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/qy_wZ92sFQccojEtscg52vtdAQmCIeQ4jsybMPmuML9Or7_SEOyrt0Jn0wyG-l2Fyw",
+    "web_url": "https://clnk.in/rVWe",
+    "title": "Uber",
+    "tab_name": "Travell & hotel"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/tg70Viipx73KZE8vjUeGgFqQt9NMDoDVSeU2jQBRBxXvjrn4_9LrNfE22IvqMCm4Rgzn",
+    "web_url": "https://clnk.in/rVWi",
+    "title": "Expedia",
+    "tab_name": "Travell & hotel"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/m79LQIEoq5UnKO5yMCtO2b2kxssydZfyBRrIysefGebJxOKV9gSYZPMkXxoUoOXTzxE",
+    "web_url": "https://clnk.in/rVWl",
+    "title": "OYO",
+    "tab_name": "Travell & hotel"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/8I3vdqSGKk3-r_zIYKkyBecRwZYzlpDzEUkUzLiYka0unoS771j9sqBhPJyVTKRdoA",
+    "web_url": "https://clnk.in/rVWn",
+    "title": "Yatra",
+    "tab_name": "Travell & hotel"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/8I3vdqSGKk3-r_zIYKkyBecRwZYzlpDzEUkUzLiYka0unoS771j9sqBhPJyVTKRdoA",
+    "web_url": "https://clnk.in/rVWn",
+    "title": "Yatra",
+    "tab_name": "Travell & hotel"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/MnuZ2c-iJgXdlyjs1lMAzBR6meMfkSBmPAebq9LGnVi83NNGpd0dPMGS5sJQS_EO_w",
+    "web_url": "https://clnk.in/rVWt",
+    "title": "First cry",
+    "tab_name": "Baby & kids"
   }
 ]

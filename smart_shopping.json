@@ -3,13 +3,13 @@
     "image": "https://play-lh.googleusercontent.com/QrDjFxk6q1snmS96tGAhMJYl7N1_thOJxR62etDJbL5nhSozwdCoXC55nHjL2NFD8d8=s512-rw",
     "web_url": "https://www.amazon.in/",
     "title": "Amazon",
-    "tab_name": "Deal of the Day,Womens,Baby & kids,Eye wear"
+    "tab_name": "Deal of the Day,Womens,Baby & kids,Eye wear,Grocery"
   },
   {
     "image": "https://play-lh.googleusercontent.com/q8hxnbpJCYfHipSOG_5tZe5jK_89T6QIsqrEklvGpMFKH8b98pDHJf2tPcn2bxEN96ON=s512-rw",
     "web_url": "https://www.flipkart.com/",
     "title": "Flipkart",
-    "tab_name": "Deal of the Day,Womens,Baby & kids"
+    "tab_name": "Deal of the Day,Womens,Baby & kids,Grocery"
   },
   {
     "image": "https://play-lh.googleusercontent.com/0l2w1UBkrdVP-CyBl89WRgbk54znQb4YoRMZIyPrguc0PGiVEOVr8P-xRKrJXHzwPf0",
@@ -183,7 +183,7 @@
     "image": "https://play-lh.googleusercontent.com/6_Qan3RBgpJUj0C2ct4l0rKKVdiJgF6vy0ctfWyQ7aN0lBjs78M-1cQUONQSVeo2jfs",
     "web_url": "https://clnk.in/rVVR",
     "title": "Paytm",
-    "tab_name": "Reacharge,Travell & hotel"
+    "tab_name": "Reacharge,Travell & hotel,Movies"
   },
   {
     "image": "https://play-lh.googleusercontent.com/l_7fl4HP1a-lspMA3I3tkcQVvUqzoZZd4XNPo-WbHFChj7Z7--aklMLygX9x8et5Pg",
@@ -364,5 +364,95 @@
     "web_url": "https://clnk.in/rVWJ",
     "title": "Fasoos",
     "tab_name": "Food"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/0loj-whL4XSeF4v5W3d213b1pH0RRTQUlmK1VESE-Rsydp06rVyPTq_Hwpwm1avB8URL",
+    "web_url": "https://clnk.in/rVWM",
+    "title": "McDonald's",
+    "tab_name": "Food"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/4X1QvX6JgOh2FRLHy82nEf3C_RJhW5-SmCBW4qFCa7BcHTPs1iY9B-jtwSPAxCcxIk0",
+    "web_url": "https://clnk.in/rVWN",
+    "title": "Burger King",
+    "tab_name": "Food"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/4X1QvX6JgOh2FRLHy82nEf3C_RJhW5-SmCBW4qFCa7BcHTPs1iY9B-jtwSPAxCcxIk0",
+    "web_url": "https://clnk.in/rVWN",
+    "title": "Burger King",
+    "tab_name": "Food"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/G1C18NGzktz9ViUwdvOFttxS-XFbR0x-OWQJFDD3epWVal_KSyNea6OjXf7Xvp2vMj0",
+    "web_url": "https://clnk.in/rVWO",
+    "title": "Behroz biryani",
+    "tab_name": "Food"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/MMBG4AZmpMhSfhF5k7QnFmhvFbaF5ZC_BtEOIKRt9TIkUZjul2lWwPZV75PwTfoSm23-jgMxkroRGA-vkDg",
+    "web_url": "https://clnk.in/rVWQ",
+    "title": "Uber Eats",
+    "tab_name": "Food"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/LDe5O3BZKt_sNPIEaCbWHy50aOgA6dFrRqieVpap78S_pN4rYOeHVsMeSu3WkDGegmg",
+    "web_url": "https://clnk.in/rVWR",
+    "title": "Travel khana",
+    "tab_name": "Food"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/A9_9_JpCe_K0bNUJ8ZZfHT_TqgqwOynVXjZ7L06ZKY6E4-nZOTsVFXYy3sTIGAeNLpM",
+    "web_url": "https://clnk.in/rVWT",
+    "title": "Sub way",
+    "tab_name": "Food"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/KSXq3Idt1WbHnaHcsC4p5KxaRE0KuuB-GNRJP3XRS2omj6DY8ohkbMlIbK53Sp6TlxYm",
+    "web_url": "https://clnk.in/rVWU",
+    "title": "Book my show",
+    "tab_name": "Movies"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Hu109FDRRy0SDs5_Ttr-LQGQAw_w8QDYaIU1yRdaOxiycl-C4oWEr43yBjM_0zX3vQk",
+    "web_url": "https://clnk.in/rVWV",
+    "title": "Inox",
+    "tab_name": "Movies"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/sy4cePV-ELsHhxgEVLbfhxhZJKD_x9d0A73d7gmAt5JB_Jv-YLjCGwyGKX1QAtGfoNqv",
+    "web_url": "https://clnk.in/rVWW",
+    "title": "Pvr",
+    "tab_name": "Movies"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/7g1mR_Od0qNRfiEN4MsSSKyb8d1MB3GrvShoKKOCrGituQ2d73IMcnim9J3lHlWDHJA",
+    "web_url": "https://clnk.in/rVWX",
+    "title": "Ticket new",
+    "tab_name": "Movies"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/EuiZnkT8aEKjXDLX74DTp1VRIwWaeRa8Dvo-LOGAxy1FPQ8GzABTIRenksiM-A7Oz48g",
+    "web_url": "https://clnk.in/rVW3",
+    "title": "Big basket",
+    "tab_name": "Grocery"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/BdptTtWnhctVNBw9TlU3Rxnw3Jfls8uEGjWCjwScKj4jRQPvw1YSGzmNha_dEGjc9Fs",
+    "web_url": "https://clnk.in/rVW4",
+    "title": "Blink it",
+    "tab_name": "Grocery"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/DFcXm2sAk4ep4iPnUqNfapZxoMvL6x2I9youqTk2z0bML6pwK4VPl8quMnpYv2KiOtw",
+    "web_url": "https://clnk.in/rVW5",
+    "title": "Natures basket",
+    "tab_name": "Grocery"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/rZixmiDxGugZuaJ66925fxLQLMLrz6kb_jF52g9N4VH_X9xEOdg8hgccSU9lCDlmLPs",
+    "web_url": "https://clnk.in/rVW7",
+    "title": "Spencer",
+    "tab_name": "Grocery"
   }
 ]

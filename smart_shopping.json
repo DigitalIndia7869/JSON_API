@@ -3,13 +3,13 @@
     "image": "https://play-lh.googleusercontent.com/QrDjFxk6q1snmS96tGAhMJYl7N1_thOJxR62etDJbL5nhSozwdCoXC55nHjL2NFD8d8=s512-rw",
     "web_url": "https://www.amazon.in/",
     "title": "Amazon",
-    "tab_name": "Deal of the Day,Womens,Baby & kids,Eye wear,Grocery"
+    "tab_name": "Deal of the Day,Womens,Baby & kids,Eye wear,Grocery,Gift & flowers"
   },
   {
     "image": "https://play-lh.googleusercontent.com/q8hxnbpJCYfHipSOG_5tZe5jK_89T6QIsqrEklvGpMFKH8b98pDHJf2tPcn2bxEN96ON=s512-rw",
     "web_url": "https://www.flipkart.com/",
     "title": "Flipkart",
-    "tab_name": "Deal of the Day,Womens,Baby & kids,Grocery"
+    "tab_name": "Deal of the Day,Womens,Baby & kids,Grocery,Gift & flowers"
   },
   {
     "image": "https://play-lh.googleusercontent.com/0l2w1UBkrdVP-CyBl89WRgbk54znQb4YoRMZIyPrguc0PGiVEOVr8P-xRKrJXHzwPf0",
@@ -450,9 +450,81 @@
     "tab_name": "Grocery"
   },
   {
-    "image": "https://play-lh.googleusercontent.com/rZixmiDxGugZuaJ66925fxLQLMLrz6kb_jF52g9N4VH_X9xEOdg8hgccSU9lCDlmLPs",
-    "web_url": "https://clnk.in/rVW7",
-    "title": "Spencer",
-    "tab_name": "Grocery"
+    "image": "https://play-lh.googleusercontent.com/lT27Fo1iQpDf6yiQOn0c_hAvFKQ-RNf8OY8ICp3n6mo0V_29XcNVvL3E2UxpS3VbMH0",
+    "web_url": "https://clnk.in/rVXb",
+    "title": "Pharmeasy",
+    "tab_name": "Medicine"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Eq9ne7fk6fbs_fpUU1Z_EuowRThYOWHx_BPnoKfHmiv6Tpa2CH1Ia_hPMAMV7useig",
+    "web_url": "https://clnk.in/rVXc",
+    "title": "Netmeds",
+    "tab_name": "Medicine"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/yjbAu08_Ahes38IEMV8slP91zgjh2mdh5xpZefvcbYuZxR8O7FZFderRn2Ivaz0uR2Lw",
+    "web_url": "https://clnk.in/rVUK",
+    "title": "1mg",
+    "tab_name": "Medicine"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/XMXamTaMtOli7jDc-iiOjD_krjBKu-3cu1IyQmFevCsKqCyY9-IR2Muf47bdHoUqIbwV",
+    "web_url": "https://clnk.in/rVXd",
+    "title": "Medplus",
+    "tab_name": "Medicine"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/CG1ws5jTYds2ERBFQMdZJlkeo34b6Ri4-sl1Rmy8prmhvbCyXqcavcu87YYwPz7PW-0",
+    "web_url": "https://clnk.in/rVXe",
+    "title": "Medlife",
+    "tab_name": "Medicine"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/mU2Yj7oglMuXcjqkuQRzzujw3VL71RD7w6soBPZm4Fbhc0gHTUNfiCKS_dRbsuFx51pw",
+    "web_url": "https://clnk.in/rVXg",
+    "title": "Healthkart",
+    "tab_name": "Medicine"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/fECaxw_6djhgFKwfiklLNDeyY-mZvGHPraZncWydPg3TLkfK-vQopS_g2PCM2oJEJM0",
+    "web_url": "https://clnk.in/rV5m",
+    "title": "Archies",
+    "tab_name": "Medicine"
+  },
+  {
+    "image": "https://www.bookmyflowers.com/image/catalog/images/logo.png",
+    "web_url": "https://clnk.in/rV5p",
+    "title": "Book my flower",
+    "tab_name": "Gift & flowers"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/BBTMa_-_DQN6dhZNWgzdlUSkKghJhQ-HTG_8QeFpLQ4SsoOM1jLfjgMHrsIWVambKV4",
+    "web_url": "https://clnk.in/rV5o",
+    "title": "Fern and petals",
+    "tab_name": "Gift & flowers"
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/ZIfMT1SIZ7Z59NPZ_CCAxZBAltMDwD5HEKJoKnBSmEuQjuxVR4m0IKUW7Tgdl_QeG8k",
+    "web_url": "https://clnk.in/rV5q",
+    "title": "Flower aura",
+    "tab_name": "Gift & flowers"
+  },
+  {
+    "image": "https://d3cif2hu95s88v.cloudfront.net/live-site-2016/2019/myflowertree-logo.svg",
+    "web_url": "https://clnk.in/rV5n",
+    "title": "My flower tree",
+    "tab_name": "Gift & flowers"
+  },
+  {
+    "image": "https://indiacircus.com/pub/media/logo/stores/1/logo-indiacircus-light_1.png",
+    "web_url": "https://clnk.in/rV5r",
+    "title": "India circus",
+    "tab_name": "Gift & flowers"
+  },
+  {
+    "image": "https://www.giftalove.com/assets/images/logo.png",
+    "web_url": "https://clnk.in/rV5s",
+    "title": "Gift a love",
+    "tab_name": "Gift & flowers"
   }
 ]

@@ -39,19 +39,19 @@
       "image":"https://play-lh.googleusercontent.com/1llAcleLs0UDr5ysUl_C4aHM-vN70HGTy7gjlM78SLsPCOijj7oosBLQc26G2daqOg",
       "web_url":"https://clnk.in/rVUF",
       "title":"Make my trip",
-      "tab_name":"Deal of the Day,Travell & hotel"
+      "tab_name":"Deal of the Day,Travell & hotel,Home"
    },
    {
       "image":"https://play-lh.googleusercontent.com/UlSOlQSBkqPjYqKnuPtgpL7-TeAt2O7x8XnQKVelhhxL983Om0xjXmv4wVvVbeznWGg",
       "web_url":"https://clnk.in/rVUJ",
       "title":"Lensekart",
-      "tab_name":"Deal of the Day"
+      "tab_name":"Deal of the Day,Home"
    },
    {
       "image":"https://play-lh.googleusercontent.com/YYMB0q3VZuH1cegb-s636R6p4cIPivJ-4BMn04ogVWfw1l0JrJSFYZ2xvcjsPEWY5ro",
       "web_url":"https://clnk.in/rVU0",
       "title":"Tata cliq",
-      "tab_name":"Deal of the Day"
+      "tab_name":"Deal of the Day,Home"
    },
    {
       "image":"https://play-lh.googleusercontent.com/twMiKpknGlr9N2fkfY3xphm7UQ7RAwNj0Bc1ufPsqQ6ttCXSYbFAVr7D0Rwjfpi3WV8",
@@ -63,7 +63,7 @@
       "image":"https://play-lh.googleusercontent.com/tuTJ47aasC_wt0v3cFORr0aCjPVAohJDDtDXjdYVDpvZs-1RVXFnkBwa6X_OpqH2ig2w",
       "web_url":"https://clnk.in/rVUA",
       "title":"Zivame",
-      "tab_name":"Deal of the Day,Womens"
+      "tab_name":"Deal of the Day,Womens,Home"
    },
    {
       "image":"https://play-lh.googleusercontent.com/FUtIkY7TkLUFUcX67W3lvWefZr1yurvWwkWfpvGtDiK1VXrGCmQ27fJt3ROqZv5q3Q",
@@ -99,7 +99,7 @@
       "image":"https://play-lh.googleusercontent.com/G2KkRGnyD0os9HYYc2c3FWS57KNQRdTJSDUKWkSzX5q4OnSy9XNnXXlxmNUI_j4uwg",
       "web_url":"https://clnk.in/rVVw",
       "title":"Lime road",
-      "tab_name":"Womens"
+      "tab_name":"Womens,Home"
    },
    {
       "image":"https://play-lh.googleusercontent.com/VoG5rtsLpB2AgYxqkdmzLeQyOJ-W9NrMfGaKYJ-LAQzllzI3eDUn6XW6RPv97wr-HQ",
@@ -153,7 +153,7 @@
       "image":"https://play-lh.googleusercontent.com/FANxCz_lAocBSfNCS0CaO3K8NOtS7DjPnNn0hOav8MCueZUmIGi3YAXOKB_6aAFKLJZ0",
       "web_url":"https://clnk.in/rUER",
       "title":"Jockey",
-      "tab_name":"Womens"
+      "tab_name":"Womens,Home"
    },
    {
       "image":"https://play-lh.googleusercontent.com/wvWWdWFDFWTM9YLKdbqzFL_1LezJkrpPUK2c2UBQkw817EzgjV5-AXNtHVynYpCuTsr2",
@@ -183,7 +183,7 @@
       "image":"https://play-lh.googleusercontent.com/6_Qan3RBgpJUj0C2ct4l0rKKVdiJgF6vy0ctfWyQ7aN0lBjs78M-1cQUONQSVeo2jfs",
       "web_url":"https://clnk.in/rVVR",
       "title":"Paytm",
-      "tab_name":"Reacharge,Travell & hotel,Movies"
+      "tab_name":"Reacharge,Travell & hotel,Movies,Home"
    },
    {
       "image":"https://play-lh.googleusercontent.com/l_7fl4HP1a-lspMA3I3tkcQVvUqzoZZd4XNPo-WbHFChj7Z7--aklMLygX9x8et5Pg",
@@ -309,7 +309,7 @@
       "image":"https://play-lh.googleusercontent.com/DRUl_Itt6wKtdfGRAOuSRHaXz9pVhNEgS1C-f2jylSbDMZxh_PNyRO2ZdnY-kCcznnoC",
       "web_url":"https://clnk.in/rVUG",
       "title":"Peperfry",
-      "tab_name":"Eye wear"
+      "tab_name":"Eye wear,Home"
    },
    {
       "image":"https://play-lh.googleusercontent.com/xu-gCcLjxeTKBUkDjmPuNVRnEq1iA8LTTRUSDJc5TDreAAms-46jQ7xNz4lq8XyghFg",
@@ -465,7 +465,7 @@
       "image":"https://play-lh.googleusercontent.com/yjbAu08_Ahes38IEMV8slP91zgjh2mdh5xpZefvcbYuZxR8O7FZFderRn2Ivaz0uR2Lw",
       "web_url":"https://clnk.in/rVUK",
       "title":"1mg",
-      "tab_name":"Medicine"
+      "tab_name":"Medicine,Home"
    },
    {
       "image":"https://play-lh.googleusercontent.com/XMXamTaMtOli7jDc-iiOjD_krjBKu-3cu1IyQmFevCsKqCyY9-IR2Muf47bdHoUqIbwV",
@@ -603,6 +603,48 @@
       "image":"https://play-lh.googleusercontent.com/mus3LmDNKHikDOJHIoyaOuYO_K_TgasrHKKKWLQCvksn6vRN32rNN9PYhwptrFWwmnc",
       "web_url":"https://tei.ai/7MZG7XFG",
       "title":"Snapdeal",
+      "tab_name":"Home"
+   },
+   {
+      "image":"https://play-lh.googleusercontent.com/dUJv6dDhdYWpmd-qxc_a2JPcNsuE_3Zj9F_7od6k_xnONjQJ6rOWCn4gNSf1u8DSk4M",
+      "web_url":"https://clnk.in/rVVd",
+      "title":"Shoppers stop",
+      "tab_name":"Home"
+   },
+   {
+      "image":"https://play-lh.googleusercontent.com/_MJN7GIBg3ajYxOhzxeAxYkaJpHdg9PTp9VGgiIF_6XDjL7IkwyP0_gvIl6-Ego6ZQx8",
+      "web_url":"https://clnk.in/rVT5",
+      "title":"Shop clues",
+      "tab_name":"Home"
+   },
+   {
+      "image":"https://play-lh.googleusercontent.com/-tPG2xWz6ofWob_hcJRakOaZuos8GVxNuIkNSO9XBDuofHSqyD-xC3mnBYYhmj4Q8Ig",
+      "web_url":"https://www.titan.co.in/",
+      "title":"Titan",
+      "tab_name":"Home"
+   },
+   {
+      "image":"https://assetscdn1.paytm.com/images/catalog/product/D/DE/DEAVOUCHER-WORTVOUC5983414AAC9C3B/0x1920/70/0.jpg",
+      "web_url":"https://www.bata.in/",
+      "title":"Bata",
+      "tab_name":"Home"
+   },
+   {
+      "image":"https://play-lh.googleusercontent.com/4ptcURtKZfQ1DYQId88-l6Kdq6XtFN1m4YqNR7b45BhEIqWw666kNtNv-XNs9pXWbaLg",
+      "web_url":"https://tei.ai/yutSody1",
+      "title":"Naaptol",
+      "tab_name":"Home"
+   },
+   {
+      "image":"https://play-lh.googleusercontent.com/sEOHOQnP_h7hKXhX1R9HCba_PLhIAW0HOIGjWPOAwooMa_F5ajaodgqMNL7_YYUDAwY",
+      "web_url":"https://clnk.in/rUEW",
+      "title":"Bewakoof",
+      "tab_name":"Home"
+   },
+   {
+      "image":"https://i.pinimg.com/originals/1e/d2/61/1ed261b7cd3070254fe01981aa509fe4.png",
+      "web_url":"https://clnk.in/rUFf",
+      "title":"Skybag",
       "tab_name":"Home"
    }
 ]

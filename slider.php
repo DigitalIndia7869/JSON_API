@@ -1,15 +1,7 @@
 [
    {
-      "slider_img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/MiniWall/miniwall_slider_images/miniwall%20amoled.png",
-      "url":null
-   },
-   {
-     "slider_img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/MiniWall/miniwall_slider_images/miniwall%20amoled.png",
-      "url":null
-   },
-   {
-     "slider_img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/MiniWall/miniwall_slider_images/miniwall%20amoled.png",
-      "url":null
+      "slider_img_url":"https://images-eu.ssl-images-amazon.com/images/G/31/img19/MAI/FSI_cashback/2020/pc.jpg",
+      "url":"www.amazon.in"
    },
    {
      "slider_img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/MiniWall/miniwall_slider_images/miniwall%20amoled.png",

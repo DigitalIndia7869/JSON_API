@@ -11,6 +11,18 @@
       "title":"Flipkart",
       "tab_name":"Home"
    },
+    {
+      "image":"https://play-lh.googleusercontent.com/QrDjFxk6q1snmS96tGAhMJYl7N1_thOJxR62etDJbL5nhSozwdCoXC55nHjL2NFD8d8=s512-rw",
+      "web_url":" https://amzn.to/3NOBtd6",
+      "title":"Amazon",
+      "tab_name":"Deal of the Day"
+   },
+   {
+      "image":"https://play-lh.googleusercontent.com/q8hxnbpJCYfHipSOG_5tZe5jK_89T6QIsqrEklvGpMFKH8b98pDHJf2tPcn2bxEN96ON=s512-rw",
+      "web_url":" http://fkrt.it/YLLBwFNNNN",
+      "title":"Flipkart",
+      "tab_name":"Deal of the Day"
+   },
    {
       "image":"https://play-lh.googleusercontent.com/0l2w1UBkrdVP-CyBl89WRgbk54znQb4YoRMZIyPrguc0PGiVEOVr8P-xRKrJXHzwPf0",
       "web_url":"https://clnk.in/rVVb",
@@ -22,6 +34,18 @@
       "web_url":"https://www.ajio.com/",
       "title":"Ajio",
       "tab_name":"Deal of the Day,Home"
+   },
+   {
+      "image":"https://play-lh.googleusercontent.com/QrDjFxk6q1snmS96tGAhMJYl7N1_thOJxR62etDJbL5nhSozwdCoXC55nHjL2NFD8d8=s512-rw",
+      "web_url":" https://amzn.to/3yoW4yV",
+      "title":"Amazon",
+      "tab_name":"Baby & kids"
+   },
+    {
+      "image":"https://play-lh.googleusercontent.com/q8hxnbpJCYfHipSOG_5tZe5jK_89T6QIsqrEklvGpMFKH8b98pDHJf2tPcn2bxEN96ON=s512-rw",
+      "web_url":" http://fkrt.it/22_RXENNNN",
+      "title":"Flipkart",
+      "tab_name":"Baby & kids"
    },
    {
       "image":"https://play-lh.googleusercontent.com/wpnNPYIrdHC3Q_bcFXGpwoMvFvvvQnZJHmFKzumq5ZTRZKIzfxURAUGOMqhPhVxnggY",
@@ -88,6 +112,18 @@
       "web_url":"https://clnk.in/rUFA",
       "title":"Beardo",
       "tab_name":"Deal of the Day"
+   },
+   {
+      "image":"https://play-lh.googleusercontent.com/QrDjFxk6q1snmS96tGAhMJYl7N1_thOJxR62etDJbL5nhSozwdCoXC55nHjL2NFD8d8=s512-rw",
+      "web_url":"https://amzn.to/3NQFm14",
+      "title":"Amazon",
+      "tab_name":"Womens"
+   },
+   {
+      "image":"https://play-lh.googleusercontent.com/q8hxnbpJCYfHipSOG_5tZe5jK_89T6QIsqrEklvGpMFKH8b98pDHJf2tPcn2bxEN96ON=s512-rw",
+      "web_url":"http://fkrt.it/JRoSdYuuuN",
+      "title":"Flipkart",
+      "tab_name":"Womens"
    },
    {
       "image":"https://play-lh.googleusercontent.com/UhgDlVOrNNHx4wWsy1N0GEZtWwKHLwsWnqQxN0RyUe_AZIWMufPoQ4rXfMZl7kGaAFg",
@@ -306,28 +342,34 @@
       "tab_name":"Eye wear"
    },
    {
+      "image":"https://play-lh.googleusercontent.com/QrDjFxk6q1snmS96tGAhMJYl7N1_thOJxR62etDJbL5nhSozwdCoXC55nHjL2NFD8d8=s512-rw",
+      "web_url":"https://amzn.to/3ox64So",
+      "title":"Amazon",
+      "tab_name":"Eye wear"
+   },
+   {
       "image":"https://play-lh.googleusercontent.com/DRUl_Itt6wKtdfGRAOuSRHaXz9pVhNEgS1C-f2jylSbDMZxh_PNyRO2ZdnY-kCcznnoC",
       "web_url":"https://clnk.in/rVUG",
       "title":"Peperfry",
-      "tab_name":"Eye wear,Home"
+      "tab_name":"Home"
    },
    {
       "image":"https://play-lh.googleusercontent.com/xu-gCcLjxeTKBUkDjmPuNVRnEq1iA8LTTRUSDJc5TDreAAms-46jQ7xNz4lq8XyghFg",
       "web_url":"https://clnk.in/rV3p",
       "title":"Home town",
-      "tab_name":"Eye wear"
+      "tab_name":"Home"
    },
    {
       "image":"https://play-lh.googleusercontent.com/TjU56m-CDC48nTCTDSd5jprW46m_Hkmq3oQvMhzqIXPmx3xYOqDNTiELHhrhxs6lDw",
       "web_url":"https://clnk.in/rV3q",
       "title":"Durian",
-      "tab_name":"Eye wear"
+      "tab_name":"Home"
    },
    {
       "image":"https://play-lh.googleusercontent.com/5vG3-fW5wNm2NLH4j-v4x4lWBpzJAVr7Qf9SwiZn7r3CehBUOfJotziDGQ-fH7I_EA",
       "web_url":"https://clnk.in/rV3r",
       "title":"Furlenco",
-      "tab_name":"Eye wear"
+      "tab_name":"Home"
    },
    {
       "image":"https://play-lh.googleusercontent.com/Kl4uKbxBQP-lEAE75mBGqeWPRvcLgFDE6x5tPBtINdx1oj7nfn2FeAUd0uK9R54_JGg",
@@ -426,6 +468,18 @@
       "tab_name":"Movies"
    },
    {
+      "image":"https://play-lh.googleusercontent.com/QrDjFxk6q1snmS96tGAhMJYl7N1_thOJxR62etDJbL5nhSozwdCoXC55nHjL2NFD8d8=s512-rw",
+      "web_url":" https://amzn.to/3bWri9g",
+      "title":"Amazon",
+      "tab_name":"Grocery"
+   },
+   {
+      "image":"https://play-lh.googleusercontent.com/q8hxnbpJCYfHipSOG_5tZe5jK_89T6QIsqrEklvGpMFKH8b98pDHJf2tPcn2bxEN96ON=s512-rw",
+      "web_url":"http://fkrt.it/LdGvvBuuuN",
+      "title":"Flipkart",
+      "tab_name":"Grocery"
+   },
+   {
       "image":"https://play-lh.googleusercontent.com/EuiZnkT8aEKjXDLX74DTp1VRIwWaeRa8Dvo-LOGAxy1FPQ8GzABTIRenksiM-A7Oz48g",
       "web_url":"https://clnk.in/rVW3",
       "title":"Big basket",
@@ -479,6 +533,18 @@
       "title":"Healthkart",
       "tab_name":"Medicine"
    },
+   {
+      "image":"https://play-lh.googleusercontent.com/QrDjFxk6q1snmS96tGAhMJYl7N1_thOJxR62etDJbL5nhSozwdCoXC55nHjL2NFD8d8=s512-rw",
+      "web_url":" https://amzn.to/3yJrpNh",
+      "title":"Amazon",
+      "tab_name":"Gift & flowers"
+   },
+   {
+      "image":"https://play-lh.googleusercontent.com/q8hxnbpJCYfHipSOG_5tZe5jK_89T6QIsqrEklvGpMFKH8b98pDHJf2tPcn2bxEN96ON=s512-rw",
+      "web_url":" https://clnk.in/rV5l",
+      "title":"Flipkart",
+      "tab_name":"Gift & flowers"
+   }
    {
       "image":"https://play-lh.googleusercontent.com/fECaxw_6djhgFKwfiklLNDeyY-mZvGHPraZncWydPg3TLkfK-vQopS_g2PCM2oJEJM0",
       "web_url":"https://clnk.in/rV5m",
@@ -640,71 +706,5 @@
       "web_url":"https://clnk.in/rUFf",
       "title":"Skybag",
       "tab_name":"Home"
-   },
-   {
-      "image":"https://play-lh.googleusercontent.com/QrDjFxk6q1snmS96tGAhMJYl7N1_thOJxR62etDJbL5nhSozwdCoXC55nHjL2NFD8d8=s512-rw",
-      "web_url":" https://amzn.to/3NOBtd6",
-      "title":"Amazon",
-      "tab_name":"Deal of the Day"
-   },
-    {
-      "image":"https://play-lh.googleusercontent.com/QrDjFxk6q1snmS96tGAhMJYl7N1_thOJxR62etDJbL5nhSozwdCoXC55nHjL2NFD8d8=s512-rw",
-      "web_url":"https://amzn.to/3NQFm14",
-      "title":"Amazon",
-      "tab_name":"Womens"
-   },
-   {
-      "image":"https://play-lh.googleusercontent.com/QrDjFxk6q1snmS96tGAhMJYl7N1_thOJxR62etDJbL5nhSozwdCoXC55nHjL2NFD8d8=s512-rw",
-      "web_url":" https://amzn.to/3yoW4yV",
-      "title":"Amazon",
-      "tab_name":"Baby & kids"
-   },
-   {
-      "image":"https://play-lh.googleusercontent.com/QrDjFxk6q1snmS96tGAhMJYl7N1_thOJxR62etDJbL5nhSozwdCoXC55nHjL2NFD8d8=s512-rw",
-      "web_url":"https://amzn.to/3nL9Xmd",
-      "title":"Amazon",
-      "tab_name":"Eye wear"
-   },
-    {
-      "image":"https://play-lh.googleusercontent.com/QrDjFxk6q1snmS96tGAhMJYl7N1_thOJxR62etDJbL5nhSozwdCoXC55nHjL2NFD8d8=s512-rw",
-      "web_url":" https://amzn.to/3bWri9g",
-      "title":"Amazon",
-      "tab_name":"Grocery"
-   },
-   {
-      "image":"https://play-lh.googleusercontent.com/QrDjFxk6q1snmS96tGAhMJYl7N1_thOJxR62etDJbL5nhSozwdCoXC55nHjL2NFD8d8=s512-rw",
-      "web_url":" https://amzn.to/3yJrpNh",
-      "title":"Amazon",
-      "tab_name":"Gift & flowers"
-   },
-   {
-      "image":"https://play-lh.googleusercontent.com/q8hxnbpJCYfHipSOG_5tZe5jK_89T6QIsqrEklvGpMFKH8b98pDHJf2tPcn2bxEN96ON=s512-rw",
-      "web_url":" http://fkrt.it/YLLBwFNNNN",
-      "title":"Flipkart",
-      "tab_name":"Deal of the Day"
-   },
-   {
-      "image":"https://play-lh.googleusercontent.com/q8hxnbpJCYfHipSOG_5tZe5jK_89T6QIsqrEklvGpMFKH8b98pDHJf2tPcn2bxEN96ON=s512-rw",
-      "web_url":"http://fkrt.it/JRoSdYuuuN",
-      "title":"Flipkart",
-      "tab_name":"Womens"
-   },
-   {
-      "image":"https://play-lh.googleusercontent.com/q8hxnbpJCYfHipSOG_5tZe5jK_89T6QIsqrEklvGpMFKH8b98pDHJf2tPcn2bxEN96ON=s512-rw",
-      "web_url":" http://fkrt.it/22_RXENNNN",
-      "title":"Flipkart",
-      "tab_name":"Baby & kids"
-   },
-   {
-      "image":"https://play-lh.googleusercontent.com/q8hxnbpJCYfHipSOG_5tZe5jK_89T6QIsqrEklvGpMFKH8b98pDHJf2tPcn2bxEN96ON=s512-rw",
-      "web_url":"http://fkrt.it/LdGvvBuuuN",
-      "title":"Flipkart",
-      "tab_name":"Grocery"
-   },
-    {
-      "image":"https://play-lh.googleusercontent.com/q8hxnbpJCYfHipSOG_5tZe5jK_89T6QIsqrEklvGpMFKH8b98pDHJf2tPcn2bxEN96ON=s512-rw",
-      "web_url":" https://clnk.in/rV5l",
-      "title":"Flipkart",
-      "tab_name":"Gift & flowers"
    }
 ]

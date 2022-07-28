@@ -5,7 +5,7 @@
    },
    {
      "slider_img_url":"https://www.simpleimageresizer.com/_uploads/photos/7dcaa824/JustForYou._CB453351313__708x400.png",
-      "url":"https://amzn.to/3Sb6g7h"
+      "url":"https://amzn.to/3BnLWK8"
    },
    {
      "slider_img_url":"https://www.simpleimageresizer.com/_uploads/photos/7dcaa824/R01_E_store_1500x300_708x400.jpg",

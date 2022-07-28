@@ -1,6 +1,6 @@
 [
    {
-      "slider_img_url":"https://www.simpleimageresizer.com/_uploads/photos/7dcaa824/frame_0_delay-1.5s_708x380.jpg",
+      "slider_img_url":"https://www.simpleimageresizer.com/_uploads/photos/7dcaa824/frame_0_delay-1.5s_1_708x400.jpg",
       "url":"https://amzn.to/3PWKiTG"
    },
    {

@@ -1,7 +1,7 @@
 [
    {
-      "slider_img_url":"https://imgur.com/a/skmO2ZL",
-      "url":"https://amzn.to/3BoeJye"
+      "slider_img_url":"https://www.simpleimageresizer.com/_uploads/photos/7dcaa824/frame_0_delay-1.5s_708x380.jpg",
+      "url":"https://amzn.to/3PWKiTG"
    },
    {
      "slider_img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/MiniWall/miniwall_slider_images/miniwall%20amoled.png",

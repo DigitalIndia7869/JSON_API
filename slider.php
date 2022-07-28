@@ -4,11 +4,15 @@
       "url":"https://amzn.to/3PWKiTG"
    },
    {
-     "slider_img_url":"https://www.simpleimageresizer.com/_uploads/photos/7dcaa824/JustForYou._CB453351313__708x400.png",
-      "url":"https://amzn.to/3BnLWK8"
+     "slider_img_url":"https://www.simpleimageresizer.com/_uploads/photos/7dcaa824/D36616983_IN_WLME_Associates_associate_2_708x400.jpg",
+      "url":"https://amzn.to/3BnM64c"
    },
    {
      "slider_img_url":"https://www.simpleimageresizer.com/_uploads/photos/7dcaa824/R01_E_store_1500x300_708x400.jpg",
       "url":"https://amzn.to/3PLzjwH"
+   },
+ {
+     "slider_img_url":"https://www.simpleimageresizer.com/_uploads/photos/7dcaa824/2148x588_708x400.jpg",
+      "url":"https://amzn.to/3OH9DA7"
    }
 ]

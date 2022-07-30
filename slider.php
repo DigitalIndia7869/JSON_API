@@ -1,18 +1,18 @@
 [
    {
-      "slider_img_url":"https://www.simpleimageresizer.com/_uploads/photos/7dcaa824/frame_0_delay-1.5s_1_708x400.jpg",
+      "slider_img_url":"https://imgur.com/DP00D2o",
       "url":"https://amzn.to/3PWKiTG"
    },
    {
-     "slider_img_url":"https://www.simpleimageresizer.com/_uploads/photos/7dcaa824/D36616983_IN_WLME_Associates_associate_2_708x400.jpg",
+     "slider_img_url":"https://imgur.com/Ds1ATQI",
       "url":"https://amzn.to/3BnM64c"
    },
    {
-     "slider_img_url":"https://www.simpleimageresizer.com/_uploads/photos/7dcaa824/R01_E_store_1500x300_708x400.jpg",
+     "slider_img_url":"https://imgur.com/MJfowso",
       "url":"https://amzn.to/3PLzjwH"
    },
  {
-     "slider_img_url":"https://www.simpleimageresizer.com/_uploads/photos/7dcaa824/2148x588_708x400.jpg",
+     "slider_img_url":"https://imgur.com/4rCPBtC",
       "url":"https://amzn.to/3OH9DA7"
    }
 ]

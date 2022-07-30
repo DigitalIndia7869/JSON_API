@@ -12,7 +12,7 @@
       "url":"https://amzn.to/3PLzjwH"
    },
  {
-     "slider_img_url":"https://imgur.com/rpetJc3",
+     "slider_img_url":"https://i.imgur.com/usdBx6O.jpg",
       "url":"https://amzn.to/3OH9DA7"
    }
 ]

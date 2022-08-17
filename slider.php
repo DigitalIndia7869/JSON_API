@@ -5,7 +5,7 @@
    },
    {
      "slider_img_url":"https://i.imgur.com/Rcs5LKb.jpg",
-      "url":"https://amzn.to/3BnM64c"
+      "url":"https://amzn.to/3pq7bnk"
    },
    {
      "slider_img_url":"https://i.imgur.com/YnoY70c.jpg",

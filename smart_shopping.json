@@ -63,7 +63,7 @@
       "image":"https://play-lh.googleusercontent.com/1llAcleLs0UDr5ysUl_C4aHM-vN70HGTy7gjlM78SLsPCOijj7oosBLQc26G2daqOg",
       "web_url":"https://clnk.in/rVUF",
       "title":"Make my trip",
-      "tab_name":"Deal of the Day,Travell & hotel,Home"
+      "tab_name":"Deal of the Day,Home"
    },
    {
       "image":"https://play-lh.googleusercontent.com/UlSOlQSBkqPjYqKnuPtgpL7-TeAt2O7x8XnQKVelhhxL983Om0xjXmv4wVvVbeznWGg",
@@ -215,11 +215,35 @@
       "title":"Mobikwik",
       "tab_name":"Reacharge"
    },
+    {
+      "image":"https://play-lh.googleusercontent.com/qy_wZ92sFQccojEtscg52vtdAQmCIeQ4jsybMPmuML9Or7_SEOyrt0Jn0wyG-l2Fyw",
+      "web_url":"https://clnk.in/rVWe",
+      "title":"Uber",
+      "tab_name":"Travell & hotel"
+   },
+    {
+      "image":"https://play-lh.googleusercontent.com/NvjELix1WuS9QFBp5UTjJZd0PGGIYs8gFDgR0GlMtB0h86ZkLz2F4tBxrixUBYMlRQ=w240-h480",
+      "web_url":"https://clnk.in/r6iu",
+      "title":"Ola",
+      "tab_name":"Travell & hotel"
+   },
+   {
+      "image":"https://play-lh.googleusercontent.com/i6aQBaWW7HvVzPyD_BpCZxFBuGpMxdJj5nCbsh1EScZ1Y3kcKJQEhpc8U4t31fzNM9HO=w240-h480",
+      "web_url":"https://clnk.in/r6h7",
+      "title":"Apni cabs",
+      "tab_name":"Travell & hotel"
+   },
+    {
+      "image":"https://play-lh.googleusercontent.com/1llAcleLs0UDr5ysUl_C4aHM-vN70HGTy7gjlM78SLsPCOijj7oosBLQc26G2daqOg",
+      "web_url":"https://clnk.in/rVUF",
+      "title":"Make my trip",
+      "tab_name":"Deal of the Day,Home"
+   },
    {
       "image":"https://play-lh.googleusercontent.com/6_Qan3RBgpJUj0C2ct4l0rKKVdiJgF6vy0ctfWyQ7aN0lBjs78M-1cQUONQSVeo2jfs",
       "web_url":"https://clnk.in/rVVR",
       "title":"Paytm",
-      "tab_name":"Reacharge,Travell & hotel,Movies,Home"
+      "tab_name":"Reacharge,Movies,Home"
    },
    {
       "image":"https://play-lh.googleusercontent.com/l_7fl4HP1a-lspMA3I3tkcQVvUqzoZZd4XNPo-WbHFChj7Z7--aklMLygX9x8et5Pg",
@@ -264,12 +288,6 @@
       "tab_name":"Travell & hotel"
    },
    {
-      "image":"https://play-lh.googleusercontent.com/C0gdwkwRgeWwtBRklQBD8XMd7ctEVuQweHscdmXIY9JWX-0NvPcpnxDcmz-m0II08mmO",
-      "web_url":"https://clnk.in/rVV9",
-      "title":"Trivago",
-      "tab_name":"Travell & hotel"
-   },
-   {
       "image":"https://play-lh.googleusercontent.com/9xMTcIms0WtWj8Ra4Vhlfm3Dz8zrd53tfrgyyA5kNLHnap2qjSrPDshm3YfKLElY4w",
       "web_url":"https://clnk.in/rVWa",
       "title":"Easy my trip",
@@ -288,12 +306,6 @@
       "tab_name":"Travell & hotel"
    },
    {
-      "image":"https://play-lh.googleusercontent.com/qy_wZ92sFQccojEtscg52vtdAQmCIeQ4jsybMPmuML9Or7_SEOyrt0Jn0wyG-l2Fyw",
-      "web_url":"https://clnk.in/rVWe",
-      "title":"Uber",
-      "tab_name":"Travell & hotel"
-   },
-   {
       "image":"https://play-lh.googleusercontent.com/tg70Viipx73KZE8vjUeGgFqQt9NMDoDVSeU2jQBRBxXvjrn4_9LrNfE22IvqMCm4Rgzn",
       "web_url":"https://clnk.in/rVWi",
       "title":"Expedia",
@@ -309,6 +321,12 @@
       "image":"https://play-lh.googleusercontent.com/8I3vdqSGKk3-r_zIYKkyBecRwZYzlpDzEUkUzLiYka0unoS771j9sqBhPJyVTKRdoA",
       "web_url":"https://clnk.in/rVWn",
       "title":"Yatra",
+      "tab_name":"Travell & hotel"
+   },
+    {
+      "image":"https://play-lh.googleusercontent.com/6_Qan3RBgpJUj0C2ct4l0rKKVdiJgF6vy0ctfWyQ7aN0lBjs78M-1cQUONQSVeo2jfs",
+      "web_url":"https://clnk.in/rVVR",
+      "title":"Paytm",
       "tab_name":"Travell & hotel"
    },
    {
@@ -694,12 +712,6 @@
       "web_url":"https://clnk.in/r6h0",
       "title":"Dunzo",
       "tab_name":"Grocery"
-   },
-{
-      "image":"https://play-lh.googleusercontent.com/i6aQBaWW7HvVzPyD_BpCZxFBuGpMxdJj5nCbsh1EScZ1Y3kcKJQEhpc8U4t31fzNM9HO=w240-h480",
-      "web_url":"https://clnk.in/r6h7",
-      "title":"Apni cabs",
-      "tab_name":"Travell & hotel"
    },
 {
       "image":"https://play-lh.googleusercontent.com/3yi7Fo-OtJUZ7nAlB8WB0v1WTOdz76Z1kqvuuubhNlHzU9jhP97TnI-6eVThWZMV31A=s48",

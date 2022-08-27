@@ -5,14 +5,14 @@
    },
    {
      "slider_img_url":"https://i.imgur.com/Rcs5LKb.jpg",
-      "url":"https://amzn.to/3pq7bnk"
+      "url":"https://amzn.to/3CzJaBU"
    },
    {
      "slider_img_url":"https://i.imgur.com/YnoY70c.jpg",
-      "url":"https://amzn.to/3PLzjwH"
+      "url":"https://amzn.to/3ApegJP"
    },
  {
      "slider_img_url":"https://i.imgur.com/usdBx6O.jpg",
-      "url":"https://amzn.to/3OH9DA7"
+      "url":"https://amzn.to/3PSlgVd"
    }
 ]

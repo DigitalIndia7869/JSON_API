@@ -13,6 +13,6 @@
    },
  {
      "slider_img_url":"https://i.imgur.com/usdBx6O.jpg",
-      "url":"https://amzn.to/3RDFP9b"
+      "url":"https://amzn.to/3etyniD"
    }
 ]

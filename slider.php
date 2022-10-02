@@ -1,7 +1,7 @@
 [
    {
       "slider_img_url":"https://i.imgur.com/5gnVE7u.jpg",
-      "url":"https://amzn.to/3RBXP3W"
+      "url":"https://www.amazon.in/s?k=amazon%2Bnew%2Bmobile%2Bphone&crid=2WRVBO5IRU4DM&sprefix=amazon%2Bnew%2Bmobile%2Bphone%2Caps%2C506&ref=nb_sb_noss_2"
    },
    {
      "slider_img_url":"https://i.imgur.com/Rcs5LKb.jpg",

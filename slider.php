@@ -9,7 +9,7 @@
    },
    {
      "slider_img_url":"https://i.imgur.com/R89mtnN_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
-      "url":"https://amzn.to/3ChquXh"
+      "url":"https://www.amazon.in/s?k=amazon%2Bnew%2Bmobile%2Bphone&crid=2WRVBO5IRU4DM&sprefix=amazon%2Bnew%2Bmobile%2Bphone%2Caps%2C506&ref=nb_sb_noss_2"
    },
    {
      "slider_img_url":"https://i.imgur.com/QHkbOKR_d.webp?maxwidth=640&shape=thumb&fidelity=medium",

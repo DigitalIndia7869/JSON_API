@@ -8,15 +8,15 @@
       "url":"https://amzn.to/3RGWqsK"
    },
    {
-     "slider_img_url":"https://imgur.com/a/QT2AxhQ",
+     "slider_img_url":"https://i.imgur.com/R89mtnN_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
       "url":"https://amzn.to/3ChquXh"
    },
    {
-     "slider_img_url":"https://imgur.com/a/iWq875q",
+     "slider_img_url":"https://i.imgur.com/QHkbOKR_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
       "url":"https://amzn.to/3RiCuvN"
    },
    {
-      "slider_img_url":"https://imgur.com/a/HX5MoH1",
+      "slider_img_url":"https://i.imgur.com/OaHTYLZ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
       "url":"https://amzn.to/3Cgx9kg"
    }
 ]

@@ -9,14 +9,14 @@
    },
    {
      "slider_img_url":"https://i.imgur.com/R89mtnN_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
-      "url":"https://www.amazon.in/s?k=amazon%2Bnew%2Bmobile%2Bphone&crid=2WRVBO5IRU4DM&sprefix=amazon%2Bnew%2Bmobile%2Bphone%2Caps%2C506&ref=nb_sb_noss_2"
+      "url":"https://www.amazon.in/Sports/b?ie=UTF8&node=1984443031&linkCode=ll2&tag=7860517-21&linkId=2b9b99cd552b4267694e349b6ffec0a7&language=en_IN&ref_=as_li_ss_tl"
    },
    {
      "slider_img_url":"https://i.imgur.com/QHkbOKR_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
-      "url":"https://amzn.to/3RiCuvN"
+      "url":"https://www.amazon.in/Sports-Supplements/b?ie=UTF8&node=1374491031&linkCode=ll2&tag=7860517-21&linkId=5c1b6c2fdc4d1133f34d40687eff53ca&language=en_IN&ref_=as_li_ss_tl"
    },
    {
       "slider_img_url":"https://i.imgur.com/OaHTYLZ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
-      "url":"https://amzn.to/3Cgx9kg"
+      "url":"https://www.amazon.in/l/3419926031?&linkCode=ll2&tag=7860517-21&linkId=b68bafc4c577c45f629ce63dd616da2a&language=en_IN&ref_=as_li_ss_tl"
    }
 ]

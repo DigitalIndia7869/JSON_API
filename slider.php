@@ -17,6 +17,6 @@
    },
 {
       "slider_img_url":"https://i.imgur.com/OaHTYLZ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
-      "url":"https://amzn.to/3SGadkh"
+      "url":"https://amzn.to/3M71FQU"
    }
 ]

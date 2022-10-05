@@ -9,7 +9,7 @@
    },
    {
      "slider_img_url":"https://i.imgur.com/R89mtnN_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
-      "url":"https://amzn.to/3V6ueSy"
+      "url":"https://amzn.to/3SLm0hu"
    },
    {
      "slider_img_url":"https://i.imgur.com/QHkbOKR_d.webp?maxwidth=640&shape=thumb&fidelity=medium",

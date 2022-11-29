@@ -1,22 +1,22 @@
 [
    {
       "slider_img_url":"https://i.imgur.com/5gnVE7u.jpg",
-      "url":"https://amzn.to/3e90FPX"
+      "url":"https://amzn.to/3Vgy5wh"
    },
    {
      "slider_img_url":"https://i.imgur.com/Rcs5LKb.jpg",
-      "url":"https://amzn.to/3EmNC84"
+      "url":"https://amzn.to/3VETGyh"
    },
    {
      "slider_img_url":"https://i.imgur.com/R89mtnN_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
-      "url":"https://amzn.to/3rDxO9u"
+      "url":"https://amzn.to/3VimYTo"
    },
    {
      "slider_img_url":"https://i.imgur.com/QHkbOKR_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
-      "url":"https://amzn.to/3REUAZ3"
+      "url":"https://amzn.to/3FablIA"
    },
 {
       "slider_img_url":"https://i.imgur.com/OaHTYLZ_d.webp?maxwidth=640&shape=thumb&fidelity=medium",
-      "url":"https://amzn.to/3T6krKr"
+      "url":"https://amzn.to/3GW8KDs"
    }
 ]
